@@ -2,7 +2,7 @@
 
 ## Running the Application
 
-1. Install Node.js from http://nodejs.org
+1. Install Node.js (http://nodejs.org)
 
 1. Run `npm install` 
 
