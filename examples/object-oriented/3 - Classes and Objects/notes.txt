@@ -1,0 +1,11 @@
+Classes are used to create an object blueprint
+
+Class Members can include:
+- Fields
+- Properties
+- Function/Methods
+- Constructors
+
+Accesibility modifiers can be used for encapsulation (PUBLIC/PRIVATE)
+
+Object instances can be created with the NEW keyword
